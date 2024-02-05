@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Qiuyi Wu
+title: 吴秋怡
 
 # Name pronunciation (optional)
-name_pronunciation: 吴秋怡
+name_pronunciation: Qiuyi Wu
 
 # Full name (for SEO)
 first_name: Qiuyi
@@ -114,7 +114,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume_Wu.pdf
+    link: uploads/CV_Wu.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
