@@ -60,14 +60,11 @@ projects:
   - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+# SIAM Southeastern Atlantic Section Annual Meeting 
+## March 25-March 26, 2023
 
-Slides can be added in a few ways:
+The 45th annual meeting of the SIAM Southeastern Atlantic Section will be hosted at Virginia Tech. The meeting will take place on March 25-26, 2023, and will contain the usual combination of plenary talks, minisymposia sessions, and contributed talks and posters.
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+MS description: As the amount of available computing resources have increased over the past decades, so too has the need for new methodologies for processing ever-larger amounts of data and simulating physical models with ever-greater complexity. In this minisymposium, we will discuss novel mathematical and statistical techniques for tackling these challenges in a variety of environmental and earth sciences applications. The methods we discuss will touch upon areas such as uncertainty quantification, model correction, and extreme-scale numerical methods.
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+11:30-12:00 Qiuyi Wu, University of Rochester, A conditional approach for joint estimation of wind speed and direction under future climates
