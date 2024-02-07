@@ -68,25 +68,9 @@ tags:
 featured: true
 
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
-
-
-
-
-
-
-# links:
-# url_pdf: ''
-# # url_pdf: https://ascmo.copernicus.org/articles/8/205/2022/ascmo-8-205-2022.pdf
-# url_code: 'https://zenodo.org/records/7358862'
-# url_dataset: 'https://zenodo.org/records/6425797'
+url_pdf: https://ascmo.copernicus.org/articles/8/205/2022/ascmo-8-205-2022.pdf
+url_code: 'https://zenodo.org/records/7358862'
+url_dataset: 'https://zenodo.org/records/6425797'
 
 # url_poster: '#'
 # url_project: ''
