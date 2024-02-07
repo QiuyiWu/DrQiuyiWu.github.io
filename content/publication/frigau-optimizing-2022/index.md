@@ -8,6 +8,8 @@ date: '2022-04-03'
 publishDate: '2024-02-05T04:51:17.674710Z'
 publication_types:
 - article-journal
+publication: "Journal of the American Statistical Association"
+publication_short: "JASA"
 doi: 10.1080/01621459.2021.1978466
 abstract: Sometimes the Joint Statistical Meetings (JSM) is frustrating to attend,
   because multiple sessions on the same topic are scheduled at the same time. This
@@ -44,4 +46,13 @@ url_code: 'https://amstat.tandfonline.com/doi/suppl/10.1080/01621459.2021.197846
 # links:
 # - name: URL
 #   url: https://doi.org/10.1080/01621459.2021.1978466
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  #ecaption: 'Image credit: [**Wu et al.**](https://ascmo.copernicus.org/articles/8/205/2022/)'
+  focal_point: ""
+  preview_only: false
+
 ---
