@@ -58,16 +58,15 @@ links:
 url_pdf: https://ascmo.copernicus.org/articles/8/205/2022/ascmo-8-205-2022.pdf
 url_code: 'https://zenodo.org/records/7358862'
 url_dataset: 'https://zenodo.org/records/6425797'
-url_slides: 'content/slides/example/SIAM_Wu.pdf'
-
-
+- name: Slides
+  url: 'content/slides/example/SIAM_Wu.pdf'
 
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Wu et al.**](https://ascmo.copernicus.org/articles/8/205/2022/)'
   focal_point: ""
   preview_only: false
 ---
