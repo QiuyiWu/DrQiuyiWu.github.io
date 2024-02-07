@@ -6,7 +6,7 @@ tags:
 date: '2018-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://magazine.amstat.org/blog/2021/06/01/taig-contest-winners/'
+# external_link: ''
 
 image:
   caption: 'Image credit: Qiuyi Wu'
@@ -17,7 +17,7 @@ links:
     icon_pack: fab
     name: Follow
     url: https://twitter.com/ChoweeWu/status/1365144621911859209
-url_pdf: 'https://arxiv.org/pdf/1811.12802.pdf'
+url_pdf: 'https://magazine.amstat.org/blog/2021/06/01/taig-contest-winners/'
 url_video: 'https://www.youtube.com/watch?v=xgFcqykVfrs'
 
 # Slides (optional).

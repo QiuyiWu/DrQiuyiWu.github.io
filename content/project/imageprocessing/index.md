@@ -2,7 +2,9 @@
 title: Image Processing with Optimally Designed Parabolic Partial Differential Equations
 summary: A new kernel smoothing-finite element method (FEM) which applies the FEM method for discretizing partial differential equations to kernel smoothing tasks. The primary applications for this work are in image processing and denoising tasks, which play an essential role in neuroimaging studies.
 tags:
-  - Demo
+  - Kernel Smoothing
+  - Image Processing
+  - Functional Data Analysis
 date: "2024-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -12,6 +14,7 @@ image:
   caption: 'Image credit: Qiuyi Wu'
   focal_point: Smart
 ---
+# Ongoing Thesis Project
 
 Discovering underlying patterns and trajectories from limited and noisy data is a central problem in machine learning. In
 the world of computer vision and image processing, the current cutting-edge deep generative models such as GAN, VAE, and
