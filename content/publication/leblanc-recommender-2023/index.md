@@ -44,14 +44,14 @@ featured: true
 
 
 
-#url_pdf: https://doi.org/10.1080/01621459.2023.2279695
+url_pdf: https://www.tandfonline.com/doi/epdf/10.1080/01621459.2023.2279695?needAccess=true
 url_code: 'https://github.com/QiuyiWu/MovieRecommender'
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  #ecaption: 'Image credit: [**Wu et al.**](https://ascmo.copernicus.org/articles/8/205/2022/)'
+  caption: 'Image credit: [**online source**](https://medium.com/tiket-com-dev-team/build-recommendation-engine-using-graph-cbd6d8732e46)'
   focal_point: ""
   preview_only: false
 ---
