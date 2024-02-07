@@ -157,10 +157,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Functional Data Analysis
+          tag: Functional Data Analysis
+        - name: Text Mining
+          tag: Text Mining
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

@@ -3,6 +3,8 @@ title: Text Mining and Music Mining
 summary: 'Naive Dictionary on Musical Corpora: From Knowledge Representation to Pattern Recognition'
 tags:
   - Text Mining
+  - Topic Modeling
+  - Latent Dirichlet Allocation
 date: '2018-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

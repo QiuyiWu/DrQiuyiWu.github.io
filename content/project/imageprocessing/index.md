@@ -24,6 +24,7 @@ limitations of unstable training and expensive computation. Smoothing is one of 
 signal-to-noise ratio and enhance subsequent analyses. However, traditional kernel smoothing methods suffer from lack of
 adaptivity and the curse of dimensionality; the accuracy and efficiency typically worsen exponentially in high dimensional
 settings.
+
 In my doctoral thesis work, I propose an adaptive General Kernel Smoothing-Finite Element Method (GKS-FEM), that leverages
 the equivalence between the GKS and the general second order parabolic partial differential equation (PDE), the latter
 of which I discretize using the finite element method (FEM) to obtain numerical smoothing schemes which are fast and robust
@@ -32,6 +33,7 @@ information or assuming a functional form, I let the data speak for itself and e
 functions by random functions. Moreover, by using a mixed-effects modeling technique, I can more effectively borrow information
 across subjects. Furthermore, population-level information about random functions can be learned from a large set
 of training data once, so that individual users do not have to repeat this time-consuming task.
+
 From a broader perspective, I attempt to bridge the gap between mathematics and statistics by applying mathematical techniques
 in novel ways to solve statistical problems. I have developed a kernel smoothing-finite element method (FEM), which
 applies the FEM method for discretizing partial differential equations to kernel smoothing tasks. The method is designed to
