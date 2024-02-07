@@ -6,6 +6,14 @@ authors:
 - Whitney Huang
 - Jiali Wang
 - Rao Kotamarthi
+
+
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
+
 date: '2022-12-02'
 publishDate: '2024-02-05T04:51:17.658516Z'
 publication_types:
@@ -52,14 +60,39 @@ summary: We introduced an innovative approach to wind modeling that simultaneous
 
 tags:
 - Source Themes
+
+# Display this page in the Featured widget?
 featured: true
 
 links:
 url_pdf: https://ascmo.copernicus.org/articles/8/205/2022/ascmo-8-205-2022.pdf
 url_code: 'https://zenodo.org/records/7358862'
 url_dataset: 'https://zenodo.org/records/6425797'
+
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 # - name: Slides
 #   url: 'content/slides/example/SIAM_Wu.pdf'
+
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+# slides: example
+
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+# projects:
+# - internal-project
 
 
 
