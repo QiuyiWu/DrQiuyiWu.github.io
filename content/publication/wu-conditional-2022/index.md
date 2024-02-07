@@ -1,7 +1,7 @@
 ---
 title: "A conditional approach for joint estimation of wind speed and direction under future climates"
 authors:
-- Qiuyi Wu
+- admin
 - Julie Bessac
 - Whitney Huang
 - Jiali Wang

@@ -6,12 +6,12 @@ authors:
 - Linhui Fu
 - Mingyan Li
 - Zhengyu Tang
-- Qiuyi Wu
+- admin
 
 # Author notes (optional)
 author_notes:
   - []
-  - 'Equal contribution'
+  - []
   - 'Equal contribution'
   - 'Equal contribution'
   - 'Equal contribution'

@@ -2,7 +2,7 @@
 title: Optimizing the JSM Program
 authors:
 - Luca Frigau
-- Qiuyi Wu
+- admin
 - David Banks
 date: '2022-04-03'
 publishDate: '2024-02-05T04:51:17.674710Z'

@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吴秋怡
+title: Qiuyi Wu
 
 # Name pronunciation (optional)
-name_pronunciation: Qiuyi Wu
+name_pronunciation: 吴秋怡
 
 # Full name (for SEO)
 first_name: Qiuyi
