@@ -55,16 +55,10 @@ tags:
 featured: false
 
 links:
-- name: Paper
-  url: https://ascmo.copernicus.org/articles/8/205/2022/
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: https://ascmo.copernicus.org/articles/8/205/2022/ascmo-8-205-2022.pdf
+url_code: 'https://zenodo.org/records/7358862'
+url_dataset: 'https://zenodo.org/records/6425797'
+url_slides: 'content/slides/example/SIAM_Wu.pdf'
 
 
 
