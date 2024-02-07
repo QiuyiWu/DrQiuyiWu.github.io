@@ -62,13 +62,14 @@ summary: We introduced an innovative approach to wind modeling that simultaneous
 
 
 tags:
-- Source Themes
+- Wind Modeling
+- Statistical Climatology
 
 # Display this page in the Featured widget?
 featured: true
 
 
-url_pdf: https://ascmo.copernicus.org/articles/8/205/2022/ascmo-8-205-2022.pdf
+#url_pdf: https://ascmo.copernicus.org/articles/8/205/2022/ascmo-8-205-2022.pdf
 url_code: 'https://zenodo.org/records/7358862'
 url_dataset: 'https://zenodo.org/records/6425797'
 

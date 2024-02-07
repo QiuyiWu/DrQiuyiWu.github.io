@@ -22,12 +22,26 @@ abstract: Sometimes the Joint Statistical Meetings (JSM) is frustrating to atten
   meeting of the 47 program chairs and other organizers. The methodology developed
   in this work immediately applies to future JSMs and is easily modified to improve
   scheduling for any other scientific conference that has parallel sessions.
+
+# Summary. An optional shortened abstract.
+summary: We optimize the schedule of parallel sessions at major conferences by using topic modeling to promote greater fairness and equitable access for all conference attendees. 
+
+
 tags:
 - Greedy Algorithms
 - Latent Dirichlet Allocation
 - Optimal Scheduling
 - Topic Modeling
-links:
-- name: URL
-  url: https://doi.org/10.1080/01621459.2021.1978466
+
+
+# Display this page in the Featured widget?
+featured: true
+
+
+#url_pdf: https://ascmo.copernicus.org/articles/8/205/2022/ascmo-8-205-2022.pdf
+url_code: 'https://amstat.tandfonline.com/doi/suppl/10.1080/01621459.2021.1978466'
+
+# links:
+# - name: URL
+#   url: https://doi.org/10.1080/01621459.2021.1978466
 ---
