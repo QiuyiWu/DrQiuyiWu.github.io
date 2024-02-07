@@ -9,12 +9,12 @@ authors:
 
 
 # Author notes (optional)
-author_notes:
-  - []
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - []
+#   - 'Equal contribution'
+#   - 'Equal contribution'
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 
 date: '2022-12-02'
@@ -68,7 +68,8 @@ tags:
 featured: true
 
 links:
-url_pdf: https://ascmo.copernicus.org/articles/8/205/2022/ascmo-8-205-2022.pdf
+url_pdf: ''
+# url_pdf: https://ascmo.copernicus.org/articles/8/205/2022/ascmo-8-205-2022.pdf
 url_code: 'https://zenodo.org/records/7358862'
 url_dataset: 'https://zenodo.org/records/6425797'
 
