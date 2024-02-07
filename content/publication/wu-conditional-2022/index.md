@@ -1,6 +1,5 @@
 ---
-title: A conditional approach for joint estimation of wind speed and direction under
-  future climates
+title: "A conditional approach for joint estimation of wind speed and direction under future climates"
 authors:
 - Qiuyi Wu
 - Julie Bessac
@@ -11,7 +10,10 @@ date: '2022-12-02'
 publishDate: '2024-02-05T04:51:17.658516Z'
 publication_types:
 - article-journal
+publication: "Advances in Statistical Climatology, Meteorology and Oceanography"
+publication_short: "ASCMO"
 doi: 10.5194/ascmo-8-205-2022
+
 abstract: This study develops a statistical conditional approach to evaluate climate
   model performance in wind speed and direction and to project their future changes
   under the Representative Concentration Pathway (RCP) 8.5 scenario over inland and
@@ -42,7 +44,36 @@ abstract: This study develops a statistical conditional approach to evaluate cli
   a combined characterization of the wind speed distributions conditioned on direction
   and wind direction distributions, which offers a flexible alternative that can provide
   additional insights for the joint assessment of speed and direction.
+
+# Summary. An optional shortened abstract.
+summary: We introduced an innovative approach to wind modeling that simultaneously models wind speed and wind direction to achieve a more comprehensive understanding of the wind behavior.
+
+
+
+tags:
+- Source Themes
+featured: false
+
 links:
-- name: URL
+- name: Paper
   url: https://ascmo.copernicus.org/articles/8/205/2022/
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
+
+
+
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
 ---
