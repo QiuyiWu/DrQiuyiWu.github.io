@@ -52,14 +52,14 @@ summary: We introduced an innovative approach to wind modeling that simultaneous
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 url_pdf: https://ascmo.copernicus.org/articles/8/205/2022/ascmo-8-205-2022.pdf
 url_code: 'https://zenodo.org/records/7358862'
 url_dataset: 'https://zenodo.org/records/6425797'
-# - name: Slides
-#   url: 'content/slides/example/SIAM_Wu.pdf'
+- name: Slides
+  url: 'content/slides/example/SIAM_Wu.pdf'
 
 
 
