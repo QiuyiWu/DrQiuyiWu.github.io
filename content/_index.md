@@ -196,7 +196,7 @@ sections:
       title: 'Accomplish&shy;ments' # Accomplishments 
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: '2006-01-25'
+      date_format: '2006-01-02'
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
