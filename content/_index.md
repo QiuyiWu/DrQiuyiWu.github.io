@@ -180,15 +180,6 @@ sections:
       view: compact
 
 
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
-
       
   - block: accomplishments
     content:
@@ -203,7 +194,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.urmc.rochester.edu/biostat/events/william-jackson-hall-graduate-student-fellowship.aspx
+        - certificate_url: 'https://www.urmc.rochester.edu/biostat/events/news.aspx#Hall2023'
           date_end: '2023-09-01'
           date_start: '2024-09-01'
           description: 'This merit-based fellowship awarded annually to one PhD student in UR Biostat Dept through the combination of outstanding performance in coursework and qualifying exams; excellence in their service as a graduate student teaching assistant; and timely completion of a dissertation containing work judged to be of particular significance in both its methodological contribution and potential impact in applications.'
@@ -211,18 +202,29 @@ sections:
           organization: University of Rochester Biostatistics Department
           organization_url: https://www.urmc.rochester.edu/biostat.aspx
           title: 'William Jackson Hall Graduate Student Fellowship'
-          url: 'https://www.urmc.rochester.edu/biostat/events/news.aspx#Hall2023'
+          url: 'https://www.urmc.rochester.edu/biostat/events/william-jackson-hall-graduate-student-fellowship.aspx'
 
         - certificate_url: https://twitter.com/ChoweeWu/status/1389016759085240320/photo/1
-          date_end: '2023-09-01'
-          date_start: '2024-09-01'
+          date_end: ''
+          date_start: '2023-04-23'
           description: 'We FunkyStats Team (Qiuyi Wu, David Skrill, Cuong Pham) won the gold medal in the data competition of ASA UPSTAT2021 conference 🥳 We evaluated the fairness of traffic stops and devised a “fairness score” from posterior medians, a tool we believe could be used to identify officers with racially disparate patterns!'
           icon: ASA
           organization: UP-STAT Conference 2021
           organization_url: https://community.amstat.org/rochester/events/upstats-2021#:~:text=The%20Conference%20takes%20place%20virtually,see%20the%202021%20Upstat%20Schedule.
           title: 'Gold Medal for Data Analytics Competition'
           url: 'https://twitter.com/ChoweeWu/status/1386166283495002113'
-        
+
+        - certificate_url: https://magazine.amstat.org/blog/2021/06/01/taig-contest-winners/
+          date_end: ''
+          date_start: '2023-04-23'
+          description: 'My talk on Naive Dictionary on Musical Corpora: From Knowledge Representation to Pattern Recognition won Best Student Presentation Award at JSM2021.'
+          icon: ASA
+          organization: ASA TAIG JSM Conference 2021
+          organization_url: https://ww2.amstat.org/meetings/jsm/2021/
+          title: 'Best Student Presentation Award'
+          url: 'https://twitter.com/ChoweeWu/status/1343622074506600448'
+
+
 
 
         - certificate_url: https://coursera.org/share/596753f0ea0884968894be4fdfa73d6a
@@ -245,6 +247,18 @@ sections:
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     design:
       columns: '2'
+
+
+
+
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
 
 
   - block: tag_cloud

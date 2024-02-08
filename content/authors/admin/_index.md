@@ -29,9 +29,11 @@ bio: My research interests include functional data analysis, image processing an
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Functional Data Analysis
+  - Image Processing
+  - Language Modeling
+  - Machine Learning
+  - Spatial Statistics
 
 # Education to show in About widget
 education:
