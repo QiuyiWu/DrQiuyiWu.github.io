@@ -108,6 +108,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/QiuyiWu
+  - icon: atom
+    icon_pack: fab
+    link: https://qiuyiwu.github.io/about/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/qiuyi-wu/
