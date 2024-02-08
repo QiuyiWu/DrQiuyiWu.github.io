@@ -196,7 +196,7 @@ sections:
       title: 'Accomplish&shy;ments' # Accomplishments 
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2016
+      date_format: 2016-01-01
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -214,7 +214,7 @@ sections:
           url: ''
         - certificate_url: https://coursera.org/share/0b9c6ba620ec281751520ebed8c572d1
           date_end: ''
-          date_start: '2017-10-08T00:00:00+01:00'  
+          date_start: '2017-10-08'  
           description: 
           icon: coursera #edx
           organization: Coursera
