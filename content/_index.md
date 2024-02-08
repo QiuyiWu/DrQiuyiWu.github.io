@@ -62,7 +62,7 @@ sections:
           date_start: '2020-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include: Grading Homework, Guest Lecture
+              Responsibilities include: grade homework, give guest lectures
               * BST 426 [Spr 24] - Linear Models (graduate course)
               * BST 426 [Spr 23] - Linear Models (graduate course)
               * BST 467 [Spr 21] - Applied Statistics in the Biomedical Sciences (graduate course)
@@ -70,12 +70,12 @@ sections:
         - title: Teaching Assistant
           company: Rochester Institute of Technology
           company_url: 'https://www.rit.edu/'
-          company_logo: org-rit
+          company_logo: org-rit2
           location: Rochester, NY
           date_start: '2017-01-01'
           date_end: '2018-05-31'
           description: |2-
-              Responsibilities include: Grading Homework, Exam
+              Responsibilities include: grade homework, exams
               * STAT 747 [Spr 18] - Principles of Statistical Data Mining (graduate course)
               * MATH 251 [Spr 17] - Probability and Statistics
     design:
