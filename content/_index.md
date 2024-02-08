@@ -272,7 +272,7 @@ sections:
         - icon: skype
           icon_pack: fab
           name: Skype Me
-          link: 'skype:queenie.wu71'
+          link: 'skype:queenie.wu71?call'
         - icon: video
           icon_pack: fas
           name: Zoom Me
