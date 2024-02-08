@@ -224,15 +224,27 @@ sections:
           title: 'Best Student Presentation Award'
           url: 'https://twitter.com/ChoweeWu/status/1343622074506600448'
 
-        - certificate_url: https://twitter.com/ChoweeWu/status/1122292613003075585
+        - certificate_url: https://drive.google.com/file/d/1Y4gJRFxIFQGOJN52iLCaS3vwJNWBb_V2/view?usp=drive_link
           date_end: ''
           date_start: '2019-04-23'
-          description: 'My talk on Text Mining and Music Mining won Gold Medal Best Student Research Award at UPSTAT 2019.'
+          description: 'My research on Text Mining and Music Mining won Gold Medal Best Student Research Award at UPSTAT 2019.'
           icon: ASA
           organization: ASA UP-STAT Conference 2019
-          organization_url: https://events.rochester.edu/event/upstat_2018better_living_through_statistics
+          organization_url: https://flxai.com/upstat-2019/
           title: 'Gold Medal Best Student Research Award'
           url: 'https://twitter.com/ChoweeWu/status/1122292613003075585'
+
+        - certificate_url: https://drive.google.com/file/d/1DaFDhCEco3T7rX_XHsE7AfoLRzCkEQTb/view?usp=drive_link
+          date_end: ''
+          date_start: '2018-04-23'
+          description: 'My talk on Bayesian and Unsupervised Machine Learning Machines for Jazz Music Analysis won Gold Medal Best Student Research Award at UPSTAT 2018.'
+          icon: ASA
+          organization: ASA UP-STAT Conference 2018
+          organization_url: https://events.rochester.edu/event/upstat_2018better_living_through_statistics
+          title: 'Gold Medal Best Student Research Award'
+          url: 'https://drive.google.com/file/d/1DaFDhCEco3T7rX_XHsE7AfoLRzCkEQTb/view?usp=drive_link'
+
+
 
 
 
