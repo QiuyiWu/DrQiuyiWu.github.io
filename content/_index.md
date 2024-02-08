@@ -203,9 +203,18 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://www.urmc.rochester.edu/biostat/events/william-jackson-hall-graduate-student-fellowship.aspx
+          date_end: '2023-09-01'
+          date_start: '2024-09-01'
+          description: 'awarded annually to one PhD student in UR Biostat Dept through the combination of outstanding performance in coursework and qualifying exams; excellence in their service as a graduate student teaching assistant; and timely completion of a dissertation containing work judged to be of particular significance in both its methodological contribution and potential impact in applications.'
+          icon: UR
+          organization: University of Rochester Biostatistics Department
+          organization_url: https://www.datacamp.com
+          title: 'William Jackson Hall Graduate Student Fellowship'
+          url: 'https://www.urmc.rochester.edu/biostat/events/news.aspx#%23Hall2023'
         - certificate_url: https://coursera.org/share/596753f0ea0884968894be4fdfa73d6a
           date_end: ''
-          date_start: '2026-06-29'
+          date_start: '2016-06-29'
           description: ''
           icon: coursera
           organization: Coursera
@@ -221,15 +230,6 @@ sections:
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning 
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
     design:
       columns: '2'
 
