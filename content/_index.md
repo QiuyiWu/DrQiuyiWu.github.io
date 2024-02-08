@@ -138,8 +138,8 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      rows: '10'
-      view: compact #citation 
+      count: '100'
+      view: citation 
 
   
   - block: portfolio
