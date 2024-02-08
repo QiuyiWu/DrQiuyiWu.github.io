@@ -205,7 +205,7 @@ sections:
       items:
         - certificate_url: https://coursera.org/share/596753f0ea0884968894be4fdfa73d6a
           date_end: ''
-          date_start: '2016-06-29'
+          date_start: '2016'
           description: ''
           icon: coursera
           organization: Coursera
