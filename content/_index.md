@@ -56,25 +56,28 @@ sections:
       items:
         - title: Teaching Assistant
           company: University of Rochester
-          company_url: ''
+          company_url: 'https://www.rochester.edu/'
           company_logo: org-ur
           location: Rochester, NY
           date_start: '2020-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              Responsibilities include: Grading Homework, Guest Lecture
+              * BST 426 [Spr 24] - Linear Models (graduate course)
+              * BST 426 [Spr 23] - Linear Models (graduate course)
+              * BST 467 [Spr 21] - Applied Statistics in the Biomedical Sciences (graduate course)
+              * BST 467 [Spr 20] - Applied Statistics in the Biomedical Sciences (graduate course)
+        - title: Teaching Assistant
+          company: Rochester Institute of Technology
+          company_url: 'https://www.rit.edu/'
+          company_logo: org-rit
+          location: Rochester, NY
+          date_start: '2017-01-01'
+          date_end: '2018-05-31'
+          description: |2-
+              Responsibilities include: Grading Homework, Exam
+              * STAT 747 [Spr 18] - Principles of Statistical Data Mining (graduate course)
+              * MATH 251 [Spr 17] - Probability and Statistics
     design:
       columns: '2'
 
