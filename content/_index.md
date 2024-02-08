@@ -138,7 +138,8 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: citation 
+      view: compact #citation 
+
   
   - block: portfolio
     id: projects
@@ -243,10 +244,6 @@ sections:
           organization_url: https://events.rochester.edu/event/upstat_2018better_living_through_statistics
           title: 'Gold Medal Best Student Research Award'
           url: 'https://drive.google.com/file/d/1DaFDhCEco3T7rX_XHsE7AfoLRzCkEQTb/view?usp=drive_link'
-
-
-
-
 
 
 
