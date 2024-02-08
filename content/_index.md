@@ -184,7 +184,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments' # Accomplishments 
+      title: Accomplishments # 'Accomplish&shy;ments' # 
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: '2006-01-02'
@@ -216,7 +216,7 @@ sections:
 
         - certificate_url: https://magazine.amstat.org/blog/2021/06/01/taig-contest-winners/
           date_end: ''
-          date_start: '2023-04-23'
+          date_start: '2023-08-08'
           description: 'My talk on Naive Dictionary on Musical Corpora: From Knowledge Representation to Pattern Recognition won Best Student Presentation Award at JSM2021.'
           icon: ASA
           organization: ASA TAIG JSM Conference 2021
