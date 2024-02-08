@@ -1,7 +1,7 @@
 ---
 title: An Ensemble Learning Approach to the Predictive Stability of Echo State Networks
 authors:
-- Qiuyi Wu
+- admin
 - Ernest Fokoue
 - Dhireesha Kudithipudi
 date: '2018-08-09'

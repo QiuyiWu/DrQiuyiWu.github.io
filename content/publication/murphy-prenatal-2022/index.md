@@ -4,7 +4,7 @@ title: 'Prenatal diurnal cortisol: Normative patterns and associations with affe
 authors:
 - Hannah R. Murphy
 - Yu Gu
-- Qiuyi Wu
+- admin
 - Jessica Brunner
 - Lisa S. Panisch
 - Meghan Best

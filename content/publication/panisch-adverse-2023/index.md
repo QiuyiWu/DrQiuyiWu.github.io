@@ -3,7 +3,7 @@ title: Adverse Childhood Experiences Predict Diurnal Cortisol Throughout Gestati
 authors:
 - Lisa S. Panisch
 - Hannah R. Murphy
-- Qiuyi Wu
+- admin
 - Jessica L. Brunner
 - Zoe T. Duberstein
 - Molly S. Arnold
