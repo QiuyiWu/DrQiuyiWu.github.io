@@ -132,13 +132,13 @@ sections:
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
+      count: 0
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
       columns: '2'
-      count: '100'
       view: citation 
 
   
