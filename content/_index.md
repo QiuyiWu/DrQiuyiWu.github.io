@@ -209,7 +209,7 @@ sections:
           date_start: '2023-04-23'
           description: 'We FunkyStats Team (Qiuyi Wu, David Skrill, Cuong Pham) won the gold medal in the data competition of ASA UPSTAT2021 conference 🥳 We evaluated the fairness of traffic stops and devised a “fairness score” from posterior medians, a tool we believe could be used to identify officers with racially disparate patterns!'
           icon: ASA
-          organization: UP-STAT Conference 2021
+          organization: ASA UP-STAT Conference 2021
           organization_url: https://community.amstat.org/rochester/events/upstats-2021#:~:text=The%20Conference%20takes%20place%20virtually,see%20the%202021%20Upstat%20Schedule.
           title: 'Gold Medal for Data Analytics Competition'
           url: 'https://twitter.com/ChoweeWu/status/1386166283495002113'
@@ -223,6 +223,17 @@ sections:
           organization_url: https://ww2.amstat.org/meetings/jsm/2021/
           title: 'Best Student Presentation Award'
           url: 'https://twitter.com/ChoweeWu/status/1343622074506600448'
+
+        - certificate_url: https://twitter.com/ChoweeWu/status/1122292613003075585
+          date_end: ''
+          date_start: '2019-04-23'
+          description: 'My talk on Text Mining and Music Mining won Gold Medal Best Student Research Award at UPSTAT 2019.'
+          icon: ASA
+          organization: ASA UP-STAT Conference 2019
+          organization_url: https://events.rochester.edu/event/upstat_2018better_living_through_statistics
+          title: 'Gold Medal Best Student Research Award'
+          url: 'https://twitter.com/ChoweeWu/status/1122292613003075585'
+
 
 
 
