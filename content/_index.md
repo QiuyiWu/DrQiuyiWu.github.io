@@ -320,7 +320,7 @@ sections:
           date_start: '2022-06-01'
           date_end: '2022-08-12'
           description: |2-
-              * Launch SuretyOpsNLP 0.1 Project: Predicting the profitability of construction projects via NLP & ML models
+              * Launch SuretyOpsNLP 0.1 Project: Predicting the profitability of construction projects
               * Build NLP models to capture the hidden signals of job profitability and contribute to benchmark model robustness
         - title: Researcher
           company: Argonne National Laboratory (ANL)
