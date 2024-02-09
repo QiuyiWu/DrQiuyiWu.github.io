@@ -81,6 +81,35 @@ sections:
     design:
       columns: '2'
 
+
+  - block: experience
+    content:
+      title: Consulting
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Statistical Consultant
+          company: University of Rochester
+          company_url: 'https://www.rochester.edu/'
+          company_logo: org-urmc
+          location: Rochester, NY
+          date_start: '2021-06-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include: communicate recommendations for statistical modeling actions to non-technical audiences
+              * Prenatal Diurnal Cortisol paper: I carried out the statistical analysis by building the lmer model, wrote code for the team and revised the statistical section of the paper. 
+              * Adverse Childhood Experience paper: I developed the analytic approach in the paper, edited and revised the final draft.  
+              * Fetal Growth project: I wrote a function to calculate estimated fetal weight percentile based on infant demographics and help the team gain insights about fetal growth curve patterns. 
+              * Immune Age Difference paper: I introduced the "immune age difference," a novel variable reflecting the relative maturity of infants' immune systems.
+              * Baby Cortisol Analysis project: I conducted statistical imputation method to resolve the missing data issue in the analysis.
+              * Mom Postnatal Analysis project: I did statistical analysis to batch correct the problematic batches adn outliers in the data. 
+    design:
+      columns: '2'
   # - block: collection
   #   id: posts
   #   content:
