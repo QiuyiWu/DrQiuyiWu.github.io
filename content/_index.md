@@ -300,7 +300,7 @@ sections:
         - title: Statistical Consultant
           company: University of Rochester
           company_url: 'https://www.rochester.edu/'
-          company_logo: org-urmc
+          company_logo: org-ur
           location: Rochester, NY
           date_start: '2021-06-01'
           date_end: ''
@@ -312,16 +312,16 @@ sections:
               * Immune Age Difference paper: I introduced the "immune age difference," a novel variable reflecting the relative maturity of infants' immune systems.
               * Baby Cortisol Analysis project: I conducted statistical imputation method to resolve the missing data issue in the analysis.
               * Mom Postnatal Analysis project: I did statistical analysis to batch correct the problematic batches adn outliers in the data. 
-        - title: Visiting Researcher
-          company: Statistical and Applied Mathematical Sciences Institute (SAMSI)
-          company_url: 'https://en.wikipedia.org/wiki/Statistical_and_Applied_Mathematical_Sciences_Institute'
-          company_logo: org-samsi
-          location: Research Triangle Park, NC
-          date_start: '2018-05-01'
-          date_end: '2019-06-01'
+        - title: Data Scientist Intern
+          company: Liberty Mutual Insurance
+          company_url: 'https://www.libertymutual.com/'
+          company_logo: org-liberty
+          location: Boston, MA
+          date_start: '2022-06-01'
+          date_end: '2022-08-12'
           description: |2-
-              * Project 1: Use text mining & optimization algorithm to significantly reduce overlapping in the conference schedule 
-              * Project 2: Use topic modeling to design movie recommender system 
+              * Launch SuretyOpsNLP 0.1 Project: Predicting the profitability of construction projects via NLP & ML models
+              * Build NLP models to capture the hidden signals of job profitability and contribute to benchmark model robustness
         - title: Researcher
           company: Argonne National Laboratory (ANL)
           company_url: 'https://www.anl.gov/'
@@ -332,6 +332,16 @@ sections:
           description: |2-
               * Project 1: Statistical wind conditions assessment across inland and off-shore US under future climate scenarios 
               * Project 2: Estimate directional wind speed quantiles and quantify the uncertainty from internal variability & parameter sensitivity
+        - title: Visiting Researcher
+          company: Statistical and Applied Mathematical Sciences Institute (SAMSI)
+          company_url: 'https://en.wikipedia.org/wiki/Statistical_and_Applied_Mathematical_Sciences_Institute'
+          company_logo: org-samsi
+          location: Research Triangle Park, NC
+          date_start: '2018-05-01'
+          date_end: '2019-06-01'
+          description: |2-
+              * Project 1: Use text mining & optimization algorithm to significantly reduce overlapping in the conference schedule 
+              * Project 2: Use topic modeling to design movie recommender system 
     design:
       columns: '2'
 
