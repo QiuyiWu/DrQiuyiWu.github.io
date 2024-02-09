@@ -34,6 +34,7 @@ interests:
   - Language Modeling
   - Machine Learning
   - Spatial Statistics
+  - AI Fairness
 
 # Education to show in About widget
 education:
