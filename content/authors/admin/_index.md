@@ -44,10 +44,10 @@ education:
       year: 2024
     - course: MS in Applied Statistics
       institution: Rochester Institute of Technology
-      year: 2016
+      year: 2018
     - course: BSc in Economics
       institution: Donghua University
-      year: 2012
+      year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
