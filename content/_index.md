@@ -312,6 +312,26 @@ sections:
               * Immune Age Difference paper: I introduced the "immune age difference," a novel variable reflecting the relative maturity of infants' immune systems.
               * Baby Cortisol Analysis project: I conducted statistical imputation method to resolve the missing data issue in the analysis.
               * Mom Postnatal Analysis project: I did statistical analysis to batch correct the problematic batches adn outliers in the data. 
+        - title: Visiting Researcher
+          company: Statistical and Applied Mathematical Sciences Institute (SAMSI)
+          company_url: 'https://en.wikipedia.org/wiki/Statistical_and_Applied_Mathematical_Sciences_Institute'
+          company_logo: org-samsi
+          location: Research Triangle Park, NC
+          date_start: '2018-05-01'
+          date_end: '2019-06-01'
+          description: |2-
+              * Project 1: Use text mining & optimization algorithm to significantly reduce overlapping in the conference schedule 
+              * Project 2: Use topic modeling to design movie recommender system 
+        - title: Researcher
+          company: Argonne National Laboratory (ANL)
+          company_url: 'https://www.anl.gov/'
+          company_logo: org-anl
+          location: Lemont, IL
+          date_start: '2019-06-01'
+          date_end: '2020-08-01'
+          description: |2-
+              * Project 1: Statistical wind conditions assessment across inland and off-shore US under future climate scenarios 
+              * Project 2: Estimate directional wind speed quantiles and quantify the uncertainty from internal variability & parameter sensitivity
     design:
       columns: '2'
 
