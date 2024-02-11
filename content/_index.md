@@ -311,7 +311,7 @@ sections:
               * Fetal Growth project: I wrote a function to calculate estimated fetal weight percentile based on infant demographics and help the team gain insights about fetal growth curve patterns. 
               * Immune Age Difference paper: I introduced the "immune age difference," a novel variable reflecting the relative maturity of infants' immune systems.
               * Baby Cortisol Analysis project: I conducted statistical imputation method to resolve the missing data issue in the analysis.
-              * Mom Postnatal Analysis project: I did statistical analysis to batch correct the problematic batches adn outliers in the data. 
+              * Mom Postnatal Analysis project: I did statistical analysis to batch correct the problematic batches and outliers in the data. 
         - title: Data Scientist Intern
           company: Liberty Mutual Insurance
           company_url: 'https://www.libertymutual.com/'
@@ -354,8 +354,8 @@ sections:
       text: |-
         Wanna collaborate?
       # Contact (add or remove contact options as necessary)
-      email: qiuyi_wu@urmc.rochester.edu
-      phone: 585 520 4347
+      email: qiuyi_wuATurmcDOTrochesterDOTedu
+      #phone: 585 520 4347
       #appointment_url: 'https://calendly.com'
       address:
         street: Crittenden Blvd
