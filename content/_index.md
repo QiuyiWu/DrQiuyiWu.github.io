@@ -322,7 +322,7 @@ sections:
           description: |2-
               * Launch SuretyOpsNLP 0.1 Project: Predicting the profitability of construction projects
               * Build NLP models to capture the hidden signals of job profitability and contribute to benchmark model robustness
-        - title: Researcher
+        - title: Research Intern
           company: Argonne National Laboratory (ANL)
           company_url: 'https://www.anl.gov/'
           company_logo: org-anl
@@ -354,7 +354,7 @@ sections:
       text: |-
         Wanna collaborate?
       # Contact (add or remove contact options as necessary)
-      email: qiuyi_wuATurmcDOTrochesterDOTedu
+      email: qiuyi_wu[AT]urmc[DOT]rochester[DOT]edu
       #phone: 585 520 4347
       #appointment_url: 'https://calendly.com'
       address:
