@@ -86,7 +86,7 @@ skills:
       - name: Squash
         description: ''
         percent: 80
-        icon: fa-racquet
+        icon: racquet
         icon_pack: fas
       - name: Animals
         description: ''
