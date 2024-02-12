@@ -62,7 +62,7 @@ skills:
       - name: R
         description: ''
         percent: 100
-        icon: python
+        icon: r
         icon_pack: fab
       - name: Data Science
         description: ''
