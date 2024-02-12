@@ -86,7 +86,7 @@ skills:
       - name: Hiking
         description: ''
         percent: 50
-        icon: person-hiking
+        icon: person-racquet
         icon_pack: fas
       - name: Animals
         description: ''
