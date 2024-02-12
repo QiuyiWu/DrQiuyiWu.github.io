@@ -81,21 +81,21 @@ skills:
       - name: Zumba
         description: ''
         percent: 80
-        icon: person-music
+        icon: music
         icon_pack: fas
-      - name: Hiking
+      - name: Squash
         description: ''
-        percent: 50
-        icon: person-racquet
+        percent: 80
+        icon: racquet
         icon_pack: fas
       - name: Animals
         description: ''
-        percent: 100
-        icon: cat
+        percent: 70
+        icon: dog
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 60
         icon: camera-retro
         icon_pack: fas
 
