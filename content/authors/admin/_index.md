@@ -86,7 +86,7 @@ skills:
       - name: Squash
         description: ''
         percent: 80
-        icon: racquet
+        icon: dumbbell
         icon_pack: fas
       - name: Animals
         description: ''
