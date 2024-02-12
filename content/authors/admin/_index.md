@@ -80,12 +80,12 @@ skills:
     items:
       - name: Zumba
         description: ''
-        percent: 60
-        icon: person-dancing
+        percent: 80
+        icon: person-music
         icon_pack: fas
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 50
         icon: person-hiking
         icon_pack: fas
       - name: Animals
