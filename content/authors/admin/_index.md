@@ -80,7 +80,7 @@ skills:
     items:
       - name: Zumba
         description: ''
-        percent: 80
+        percent: 100
         icon: music
         icon_pack: fas
       - name: Squash
