@@ -41,13 +41,13 @@ education:
   courses:
     - course: PhD in Statistics
       institution: University of Rochester
-      year: 2019 - 2024
+      year: 2019-2024
     - course: MS in Applied Statistics
       institution: Rochester Institute of Technology
-      year: 2016 - 2018
+      year: 2016-2018
     - course: BSc in Economics
       institution: Donghua University
-      year: 2012 - 2016
+      year: 2012-2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
