@@ -1,5 +1,5 @@
 ---
-title: My Poster at JSM 2024 Section on Statistics in Imaging
+title: I'll present my thesis work at JSM 2024 Section on Statistics in Imaging
  
 
 event: 2024 Joint Statistical Meetings
@@ -37,7 +37,7 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
+  - icon: #twitter
     icon_pack: fab
     name: Follow
     url: #https://twitter.com/ChoweeWu/status/1639407125800660994
@@ -62,7 +62,7 @@ url_video: ''
 #   - example
 ---
 
-# Contributed Poster Presentations: Section on Statistics in Imaging
+## Contributed Poster Presentations: Section on Statistics in Imaging
 ## Tuesday, Aug 6: 2:00 PM - 3:50 PM
 
 - Contributed Posters 
