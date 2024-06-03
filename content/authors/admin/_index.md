@@ -127,13 +127,13 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: #uploads/CV_Wu.pdf
+    link: uploads/CV_Wu.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-TEST: Qiuyi Wu is a PhD candidate in Statistics at the University of Rochester Department of Biostatistics and Computational Biology. Her research interests include functional data analysis, image processing and high dimensional data anlaysis. Her thesis research attempts to bridge the gap between mathematics and statistics by applying mathematical techniques in novel ways to solve statistical problems. For her thesis work, she has developed a new kernel smoothing-finite element method (FEM) which applies the FEM method for discretizing partial differential equations to kernel smoothing tasks. The new method is designed to ensure efficiency and stability in high-dimensional scenarios. The primary applications for her work are in image processing and denoising tasks, which play an essential role in neuroimaging studies.
+Qiuyi Wu is a PhD candidate in Statistics at the University of Rochester Department of Biostatistics and Computational Biology. Her research interests include functional data analysis, image processing and high dimensional data anlaysis. Her thesis research attempts to bridge the gap between mathematics and statistics by applying mathematical techniques in novel ways to solve statistical problems. For her thesis work, she has developed a new kernel smoothing-finite element method (FEM) which applies the FEM method for discretizing partial differential equations to kernel smoothing tasks. The new method is designed to ensure efficiency and stability in high-dimensional scenarios. The primary applications for her work are in image processing and denoising tasks, which play an essential role in neuroimaging studies.
 
 
 {style="text-align: justify;"}
