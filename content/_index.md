@@ -80,6 +80,18 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
+
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+      
   - block: collection
     id: featured
     content:
@@ -135,17 +147,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
 
 
       
