@@ -142,7 +142,7 @@ Qiuyi Wu is a PhD candidate in Statistics at the University of Rochester Departm
 
 <figure>
     <img src="uploads/citationmap.png" alt="My Google Scholar Citation World Map" />
-    <figcaption>My Google Scholar Citation World Map based on `citation-map` (updated on 7/30/2024). </figcaption>
+    <figcaption>My Google Scholar Citation World Map based on <code>citation-map</code> (updated on 7/30/2024). </figcaption>
 </figure>
 
 
