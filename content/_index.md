@@ -44,6 +44,19 @@ sections:
       username: admin
 
 
+<div class="name-icons">
+    <!-- Your existing name and icons HTML/shortcodes here -->
+    <h1>Dr. Qiuyi Wu</h1>
+    <div class="icons">
+        <!-- Icons HTML here -->
+    </div>
+</div>
+
+<!-- Embed the citation map -->
+<div class="citation-map">
+    <iframe src="/citation_map.html" width="100%" height="600" frameborder="0"></iframe>
+</div>
+
   # - block: collection
   #   id: posts
   #   content:
