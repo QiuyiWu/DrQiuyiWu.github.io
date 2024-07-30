@@ -132,7 +132,7 @@ social:
     icon_pack: ai
     link: uploads/CV_Wu.pdf
 
-<iframe src="uploads/citation_map.html" width="100%" height="600" frameborder="0"></iframe>
+# <iframe src="uploads/citation_map.html" width="100%" height="600" frameborder="0"></iframe>
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
