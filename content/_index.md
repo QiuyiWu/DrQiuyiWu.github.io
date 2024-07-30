@@ -43,7 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-<iframe src="/citation_map.html" width="100%" height="600" frameborder="0"></iframe>
+      
 
   # - block: collection
   #   id: posts
