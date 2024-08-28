@@ -85,24 +85,6 @@ sections:
 
 
 
-  - block: collection
-    content:
-      title: News
-      text: |-
-        {{% callout note %}}
-        Stay updated with our latest news.
-        {{% /callout %}}
-
-        - 2024-08-28: [test](https://drqiuyiwu.github.io/)
-      # - 2024-07-15: [Our Research Published in Major Journal](#)
-      # - 2024-06-10: [New Collaboration with XYZ Announced](#)
-    design:
-      columns: '2'
-      view: compact
-
-
-
-
   # - block: collection
   #   id: talks
   #   content:
@@ -113,6 +95,18 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
+
+
+  - block: 
+    content:
+      title: News
+      text: |-
+        - **2024-08-28**: [test](https://drqiuyiwu.github.io/)
+        # You can add more news items here
+    design:
+      columns: '2'
+      view: compact
+
       
   - block: collection
     id: featured
