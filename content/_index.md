@@ -107,6 +107,8 @@ sections:
         - **2024-08**: Received ASA Travel Award for Preparing to Teach Statistics and Data Science (PTT) Workshop hosted in Oregon! [link](https://preparingtoteach.org/)
         - **2024-06**: Received Clinton Miller Award for Best Student Poster in SRCOS Summer Research Conference! [link](https://x.com/ChoweeWu/status/1798415638668718144)
         - **2024-06**: Received NSF/Boyd Harshbarger Travel Award for SRCOS Summer Research Conference! [link](https://x.com/ChoweeWu/status/1798415638668718144)
+        - **2024-05**: Received Gold Medal for Best Methodology and Theory Award in UPSTAT Conference! [link](https://community.amstat.org/rochester/events/upstats-2024/awards-and-prizes)
+        - **2024-04**: William Jackson Hall Fellowship for academic excellence! [link](https://drive.google.com/file/d/1KOqiQDn2Rclk00uz7ZYmVODtgtkX0SXp/view)
     design:
       columns: '1'
       view: compact
