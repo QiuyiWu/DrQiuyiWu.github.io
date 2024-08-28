@@ -88,10 +88,10 @@ sections:
   - block: collection
     content:
       title: News
-      text: |-
-        {{% callout note %}}
-        Stay updated with our latest news.
-        {{% /callout %}}
+      text: #|-
+        # {{% callout note %}}
+        # Stay updated with our latest news.
+        # {{% /callout %}}
 
         - 2024-08-28: [test](https://drqiuyiwu.github.io/)
       # - 2024-07-15: [Our Research Published in Major Journal](#)
@@ -103,16 +103,16 @@ sections:
 
 
 
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
       
   - block: collection
     id: featured
