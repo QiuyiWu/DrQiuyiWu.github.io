@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Statistics
+role: Postdoc Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Rochester
-    url: https://www.rochester.edu/
+  - name: Duke University
+    url: https://scholars.duke.edu/person/Qiuyi.Wu
 
 
 
