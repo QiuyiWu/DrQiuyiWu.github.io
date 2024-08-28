@@ -101,12 +101,14 @@ sections:
     content:
       title: News
       text: |-
-        - **2024-08**: I'll join Duke as a postdoc next month! [link](https://scholars.duke.edu/person/Qiuyi.Wu)
+        - **2024-08**: I'll join Duke as a postdoc next month! [[link]](https://scholars.duke.edu/person/Qiuyi.Wu)
         - **2024-08**: Received Travel Award for FutureBAProf Workshop hosted in Iowa! [link](https://www.linkedin.com/posts/university-of-iowa-tippie-college-of-business_futurebaprof-activity-7231668808703258624-ET5J?utm_source=share&utm_medium=member_desktop)
         - **2024-08**: Presented my thesis work at JSM 2024 Section on Statistics in Imaging! [link](https://x.com/ChoweeWu/status/1820528473083097380)
         - **2024-08**: Received ASA Travel Award for Preparing to Teach Statistics and Data Science (PTT) Workshop hosted in Oregon! [link](https://preparingtoteach.org/)
+        - **2024-06**: Received Clinton Miller Award for Best Student Poster in SRCOS Summer Research Conference! [link](https://x.com/ChoweeWu/status/1798415638668718144)
+        - **2024-06**: Received NSF/Boyd Harshbarger Travel Award for SRCOS Summer Research Conference! [link](https://x.com/ChoweeWu/status/1798415638668718144)
     design:
-      columns: '2'
+      columns: '1'
       view: compact
 
       
