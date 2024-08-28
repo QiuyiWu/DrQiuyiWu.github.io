@@ -85,20 +85,20 @@ sections:
 
 
 
-  - block: collection
-    content:
-      title: News
-      text: |-
-        {{% callout note %}}
-        Stay updated with our latest news.
-        {{% /callout %}}
-    items:
-      - 2024-08-28: [Exciting New Feature Launched](#)
-      - 2024-07-15: [Our Research Published in Major Journal](#)
-      - 2024-06-10: [New Collaboration with XYZ Announced](#)
-    design:
-      columns: '1'
-      view: compact
+  # - block: collection
+  #   content:
+  #     title: News
+  #     text: |-
+  #       {{% callout note %}}
+  #       Stay updated with our latest news.
+  #       {{% /callout %}}
+  #   items:
+  #     - 2024-08-28: [Exciting New Feature Launched](#)
+  #     - 2024-07-15: [Our Research Published in Major Journal](#)
+  #     - 2024-06-10: [New Collaboration with XYZ Announced](#)
+  #   design:
+  #     columns: '1'
+  #     view: compact
 
 
 
