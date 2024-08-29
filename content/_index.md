@@ -109,8 +109,10 @@ sections:
         - **2024-06**: Received NSF/Boyd Harshbarger Travel Award for SRCOS Summer Research Conference! [[link]](https://x.com/ChoweeWu/status/1798415638668718144)
         - **2024-05**: Received William Jackson Hall Fellowship for academic excellence! [[link]](https://drive.google.com/file/d/1KOqiQDn2Rclk00uz7ZYmVODtgtkX0SXp/view)
         - **2024-04**: Received Gold Medal for Best Methodology and Theory Award in UPSTAT Conference! [[link]](https://community.amstat.org/rochester/events/upstats-2024/awards-and-prizes)
-        <!-- Manual Link -->
-        <p style="text-align:right;"><a href="/news">Click to see the whole news list</a></p>
+
+        <p style="text-align:right;">
+          <a href="/news" style="display:inline-block; padding:10px 20px; background-color:#007bff; color:white; text-decoration:none; border-radius:5px;">View All News</a>
+        </p>
     design:
       columns: '1'
       view: compact
