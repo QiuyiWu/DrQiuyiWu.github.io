@@ -125,8 +125,8 @@ sections:
         - **2017-09**: Received Student Scholarship for SAS Global Forum! [[link]](https://www.sas.com/content/dam/SAS/documents/event-collateral/2020/English/sas-global-forum-2020/sas-global-forum-student-scholarship-winners.pdf)
         - **2017-04**: Received Young Scientific Leader Award in UPSTAT Conference! [[link]](https://www.ktylerwilcox.me/static/2017-upstat.51afe6d070.pdf)
         - **2016-08**: Received RIT Merit Scholarship for Master Study! [[link]](https://www.rit.edu/admissions/aid/merit-based-scholarships)
-      link: "/news"
-      link_text: "Click to see the whole news list"
+        <!-- Manual Link -->
+        <p style="text-align:right;"><a href="/news">Click to see the whole news list</a></p>
     design:
       columns: '1'
       view: compact
