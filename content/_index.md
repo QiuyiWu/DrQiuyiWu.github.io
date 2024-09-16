@@ -396,8 +396,8 @@ sections:
         - 'Tuesday 10:00 to 16:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '35.99837'
-        longitude: '-78.94222'  
+        latitude: '36.0093'
+        longitude: '-78.9417'  
       contact_links:
         - icon: twitter
           icon_pack: fab
@@ -410,7 +410,7 @@ sections:
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://urmc.zoom.us/j/6914975258'
+          link: 'https://zoom.us/j/8703832597?pwd=isLJN1C0m3khIICik4kWKsLsdUTexe.1'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
