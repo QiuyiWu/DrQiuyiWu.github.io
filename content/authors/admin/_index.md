@@ -109,7 +109,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:qiuyi_wu@urmc.rochester.edu
+    link: mailto:qiuyi.wu@duke.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ChoweeWu

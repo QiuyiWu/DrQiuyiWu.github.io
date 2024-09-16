@@ -381,32 +381,32 @@ sections:
       text: |-
         Wanna collaborate?
       # Contact (add or remove contact options as necessary)
-      email: qiuyi_wu[AT]urmc[DOT]rochester[DOT]edu
+      email: qiuyi[DOT]wu[AT]duke[DOT]edu
       #phone: 585 520 4347
       #appointment_url: 'https://calendly.com'
       address:
-        street: Crittenden Blvd
-        city: Rochester
-        region: NY
-        postcode: '14642'
+        street: 2424 Erwin Rd
+        city: Durham
+        region: NC
+        postcode: '27705'
         country: United States
         country_code: US
-      directions: Enter Saunders Research Building and take the stairs to Floor 4
+      directions: Enter Hock Plaza Building and take the elevator to Floor 9, Office Room 9059
       office_hours:
         - 'Tuesday 10:00 to 16:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '43.1208'
-        longitude: '-77.6272'  
+        latitude: '35.99837'
+        longitude: '-78.94222'  
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/ChoweeWu'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'https://join.skype.com/esVYZlefAE6V'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'https://join.skype.com/esVYZlefAE6V'
         - icon: video
           icon_pack: fas
           name: Zoom Me
