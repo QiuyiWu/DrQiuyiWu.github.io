@@ -100,8 +100,7 @@ sections:
   - block: 
     content:
       title: News
-      filters:
-        featured_only: true
+      id: news
       text: |-
         - **2024-08**: I'll join Duke as a postdoc next month! [[link]](https://scholars.duke.edu/person/Qiuyi.Wu)
         - **2024-08**: Received Travel Award for FutureBAProf Workshop hosted in Iowa! [[link]](https://www.linkedin.com/posts/university-of-iowa-tippie-college-of-business_futurebaprof-activity-7231668808703258624-ET5J?utm_source=share&utm_medium=member_desktop)
