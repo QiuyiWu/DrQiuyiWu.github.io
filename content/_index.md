@@ -237,7 +237,7 @@ sections:
 
         - certificate_url: https://magazine.amstat.org/blog/2021/06/01/taig-contest-winners/
           date_end: ''
-          date_start: '2023-08-08'
+          date_start: '2021-08-08'
           description: 'My talk on Naive Dictionary on Musical Corpora: From Knowledge Representation to Pattern Recognition won Best Student Presentation Award at JSM2021.'
           icon: ASA
           organization: ASA TAIG JSM Conference 2021
