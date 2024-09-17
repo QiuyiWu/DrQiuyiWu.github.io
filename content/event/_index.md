@@ -1,6 +1,6 @@
 ---
 title: Events
-cms_exclude: true
+cms_exclude: false
 
 # View.
 #   1 = List

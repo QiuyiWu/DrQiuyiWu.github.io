@@ -129,6 +129,7 @@ sections:
     design:
       columns: '2'
       view: card
+      
   - block: collection
     content:
       title: Recent Publications
@@ -192,13 +193,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 'https://www.urmc.rochester.edu/biostat/events/news.aspx#Hall2023'
+        - certificate_url: https://drive.google.com/file/d/1KOqiQDn2Rclk00uz7ZYmVODtgtkX0SXp/view
           date_end: '2024-09-01'
           date_start: '2023-09-01'
           description: 'This merit-based fellowship awarded annually to one PhD student in UR Biostat Dept through the combination of outstanding performance in coursework and qualifying exams; excellence in their service as a graduate student teaching assistant; and timely completion of a dissertation containing work judged to be of particular significance in both its methodological contribution and potential impact in applications.'
           icon: UR
           organization: University of Rochester Biostatistics Department
-          organization_url: https://www.urmc.rochester.edu/biostat.aspx
+          organization_url: https://www.urmc.rochester.edu/biostat/events/news.aspx#Hall2023
           title: 'William Jackson Hall Graduate Student Fellowship'
           url: 'https://www.urmc.rochester.edu/biostat/events/william-jackson-hall-graduate-student-fellowship.aspx'
 
@@ -284,6 +285,7 @@ sections:
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     design:
       columns: '2'
+    exclude_featured: true
 
 
 
