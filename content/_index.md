@@ -305,7 +305,7 @@ sections:
       items:
         - title: Postdoc Researcher
           company: Duke University
-          company_url: 'https://www.libertymutual.com/'
+          company_url: 'https://biostat.duke.edu/profile/qiuyi-wu'
           company_logo: org-duke
           location: Durham, NC
           date_start: '2024-09-10'
