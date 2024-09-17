@@ -423,6 +423,19 @@ sections:
       text: |-
         Wanna collaborate?
       # Contact (add or remove contact options as necessary)
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: 'https://twitter.com/ChoweeWu'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'https://join.skype.com/esVYZlefAE6V'
+        - icon: video
+          icon_pack: fas
+          name: Zoom Me
+          link: 'https://zoom.us/j/8703832597?pwd=isLJN1C0m3khIICik4kWKsLsdUTexe.1'
       email: qiuyi[DOT]wu[AT]duke[DOT]edu
       #phone: 585 520 4347
       #appointment_url: 'https://calendly.com'
@@ -440,19 +453,6 @@ sections:
       coordinates:
         latitude: '36.0093'
         longitude: '-78.9417'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/ChoweeWu'
-        # - icon: skype
-        #   icon_pack: fab
-        #   name: Skype Me
-        #   link: 'https://join.skype.com/esVYZlefAE6V'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.us/j/8703832597?pwd=isLJN1C0m3khIICik4kWKsLsdUTexe.1'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
