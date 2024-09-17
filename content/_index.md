@@ -227,7 +227,7 @@ sections:
 
         - certificate_url: https://twitter.com/ChoweeWu/status/1389016759085240320/photo/1
           date_end: ''
-          date_start: '2023-04-23'
+          date_start: '2021-04-23'
           description: 'We FunkyStats Team (Qiuyi Wu, David Skrill, Cuong Pham) won the gold medal in the data competition of ASA UPSTAT2021 conference 🥳 We evaluated the fairness of traffic stops and devised a “fairness score” from posterior medians, a tool we believe could be used to identify officers with racially disparate patterns!'
           icon: ASA
           organization: ASA UP-STAT Conference 2021
@@ -313,7 +313,7 @@ sections:
           description: |2-
               Involved in the development of cutting-edge statistical methods and machine learning algorithms inspired by massive healthcare datasets.
               * Develop innovative statistical methods and machine learning algorithms for healthcare data analysis.
-              * Conduct research in areas of generative models for biomedical data (e.g., echocardiograms, genetics, EHRs); dynamic risk prediction models. Data harmonization techniques. EHR phenotyping.
+              * Conduct research in areas of generative models for biomedical data (e.g., echocardiograms, genetics, EHRs); dynamic risk prediction models; Data harmonization techniques; EHR phenotyping.
               * Collaborate with Dr. Anru Zhang, Eugene Anson Stead, Jr. M.D. Associate Professor.
               * Contribute to the writing and publication of scientific papers.
         - title: Statistical Consultant
