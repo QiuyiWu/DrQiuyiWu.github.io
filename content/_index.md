@@ -181,6 +181,9 @@ sections:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments' 
       subtitle:
+      # filters:
+      #   folders:
+      #     - award
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: '2006-01-02'
       # Accomplishments.
@@ -190,14 +193,34 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: 'https://www.urmc.rochester.edu/biostat/events/news.aspx#Hall2023'
-          date_end: '2023-09-01'
-          date_start: '2024-09-01'
+          date_end: '2024-09-01'
+          date_start: '2023-09-01'
           description: 'This merit-based fellowship awarded annually to one PhD student in UR Biostat Dept through the combination of outstanding performance in coursework and qualifying exams; excellence in their service as a graduate student teaching assistant; and timely completion of a dissertation containing work judged to be of particular significance in both its methodological contribution and potential impact in applications.'
           icon: UR
           organization: University of Rochester Biostatistics Department
           organization_url: https://www.urmc.rochester.edu/biostat.aspx
           title: 'William Jackson Hall Graduate Student Fellowship'
           url: 'https://www.urmc.rochester.edu/biostat/events/william-jackson-hall-graduate-student-fellowship.aspx'
+
+        - certificate_url: https://x.com/ChoweeWu/status/1798415638668718144
+          date_end: ''
+          date_start: '2024-06-05'
+          description: 'My doctoral thesis research won Clinton Miller Award for Best Student Poster in SRCOS Summer Research Conference.'
+          icon: SRCOS
+          organization: SRCOS Summer Research Conference 2024
+          organization_url: https://www.srcos.org/conference
+          title: 'Clinton Miller Award'
+          url: 'https://x.com/ChoweeWu/status/1798415638668718144'
+      
+        - certificate_url: https://x.com/ChoweeWu/status/1802185181807222941
+          date_end: ''
+          date_start: '2024-04-13'
+          description: 'My doctoral thesis research won Gold Medal for Best Methodology and Theory Award at UPSTAT 2024.'
+          icon: ASA
+          organization: ASA UP-STAT Conference 2024
+          organization_url: https://community.amstat.org/rochester/events/upstats-2024/awards-and-prizes
+          title: 'Gold Medal for Best Methodology and Theory Award'
+          url: 'https://x.com/ChoweeWu/status/1802184022736453781'
 
         - certificate_url: https://twitter.com/ChoweeWu/status/1389016759085240320/photo/1
           date_end: ''
@@ -324,13 +347,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoc Researcher
+          company: Duke University
+          company_url: 'https://www.libertymutual.com/'
+          company_logo: org-duke
+          location: Durham, NC
+          date_start: '2024-09-10'
+          date_end: ''
+          description: |2-
+              * Develop innovative statistical methods and machine learning algorithms for healthcare data analysis.
+              * Conduct research in areas of generative models for biomedical data (e.g., echocardiograms, genetics, EHRs); dynamic risk prediction models. Data harmonization techniques. EHR phenotyping.
+              * Collaborate with Dr. Anru Zhang, Eugene Anson Stead, Jr. M.D. Associate Professor.
+              * Contribute to the writing and publication of scientific papers.
         - title: Statistical Consultant
           company: University of Rochester
           company_url: 'https://www.rochester.edu/'
           company_logo: org-ur
           location: Rochester, NY
           date_start: '2021-06-01'
-          date_end: ''
+          date_end: '2024-08-23'
           description: |2-
               Responsibilities include: communicate recommendations for statistical modeling actions to non-technical audiences
               * Prenatal Diurnal Cortisol paper: I carried out the statistical analysis by building the lmer model, wrote code for the team and revised the statistical section of the paper. 
@@ -392,8 +427,8 @@ sections:
         country: United States
         country_code: US
       directions: Enter Hock Plaza Building and take the elevator to Floor 9, Office Room 9059
-      office_hours:
-        - 'Tuesday 10:00 to 16:00'
+      # office_hours:
+      #   - 'Tuesday 10:00 to 16:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '36.0093'
