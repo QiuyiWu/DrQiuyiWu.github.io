@@ -285,7 +285,7 @@ sections:
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     design:
       columns: '2'
-    exclude_featured: true
+    
 
 
 
@@ -340,6 +340,7 @@ sections:
 
   - block: experience
     content:
+      autolink: true
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
