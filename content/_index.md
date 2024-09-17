@@ -292,54 +292,6 @@ sections:
 
 
 
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
-
-  - block: experience
-    content:
-      title: Teaching
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Teaching Assistant
-          company: University of Rochester
-          company_url: 'https://www.rochester.edu/'
-          company_logo: org-ur
-          location: Rochester, NY
-          date_start: '2020-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include: grade homework, give guest lectures
-              * BST 426 [Spr 24] - Linear Models (graduate course)
-              * BST 426 [Spr 23] - Linear Models (graduate course)
-              * BST 467 [Spr 21] - Applied Statistics in the Biomedical Sciences (graduate course)
-              * BST 467 [Spr 20] - Applied Statistics in the Biomedical Sciences (graduate course)
-        - title: Teaching Assistant
-          company: Rochester Institute of Technology
-          company_url: 'https://www.rit.edu/'
-          company_logo: org-rit2
-          location: Rochester, NY
-          date_start: '2017-01-01'
-          date_end: '2018-05-31'
-          description: |2-
-              Responsibilities include: grade homework, exams
-              * STAT 747 [Spr 18] - Principles of Statistical Data Mining (graduate course)
-              * MATH 251 [Spr 17] - Probability and Statistics
-    design:
-      columns: '2'
-
-
   - block: experience
     content:
       title: Experience
@@ -359,6 +311,7 @@ sections:
           date_start: '2024-09-10'
           date_end: ''
           description: |2-
+              Involved in the development of cutting-edge statistical methods and machine learning algorithms inspired by massive healthcare datasets.
               * Develop innovative statistical methods and machine learning algorithms for healthcare data analysis.
               * Conduct research in areas of generative models for biomedical data (e.g., echocardiograms, genetics, EHRs); dynamic risk prediction models. Data harmonization techniques. EHR phenotyping.
               * Collaborate with Dr. Anru Zhang, Eugene Anson Stead, Jr. M.D. Associate Professor.
@@ -410,6 +363,56 @@ sections:
               * Project 2: Use topic modeling to design movie recommender system 
     design:
       columns: '2'
+
+
+  - block: experience
+    content:
+      title: Teaching
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Teaching Assistant
+          company: University of Rochester
+          company_url: 'https://www.rochester.edu/'
+          company_logo: org-ur
+          location: Rochester, NY
+          date_start: '2020-01-01'
+          date_end: '2024-05-20'
+          description: |2-
+              Responsibilities include: grade homework, give guest lectures
+              * BST 426 [Spr 24] - Linear Models (graduate course)
+              * BST 426 [Spr 23] - Linear Models (graduate course)
+              * BST 467 [Spr 21] - Applied Statistics in the Biomedical Sciences (graduate course)
+              * BST 467 [Spr 20] - Applied Statistics in the Biomedical Sciences (graduate course)
+        - title: Teaching Assistant
+          company: Rochester Institute of Technology
+          company_url: 'https://www.rit.edu/'
+          company_logo: org-rit2
+          location: Rochester, NY
+          date_start: '2017-01-01'
+          date_end: '2018-05-31'
+          description: |2-
+              Responsibilities include: grade homework, exams
+              * STAT 747 [Spr 18] - Principles of Statistical Data Mining (graduate course)
+              * MATH 251 [Spr 17] - Probability and Statistics
+    design:
+      columns: '2'
+
+
+
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
 
 
   - block: contact
